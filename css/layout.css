@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: #564F59;
+    float: left;
+    }
+.logo{
+    margin-top: 40px;
+    margin-left: 20px;
+}    
+.slogan{
+    font-family: 'Acme', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+.entrecontato{
+    width: 20%;
+    height: 880px;
+    background-color: rgb(202, 202, 202) ;
+    float: left;
+}
+.cont{
+    margin-top: 130px;
+}
+.entrecontato h1{
+    font-family: 'Hind Madurai', sans-serif;
+    text-align: center;
+    
+}
+.entrecontato h2{
+    font-family: 'Hind Madurai', sans-serif;
+    text-align: justify;
+    font-size: 22px;
+}
+.entrecontato form{
+    font-family: 'Hind', sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#enviar{
+    margin-top:10px;
+    margin-left: 80px;
+    padding: 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    font-family: 'Hind',sans-serif;
+    font-size: 20px;
+}
+.conteudo{
+    width: 80%;
+    height: 880px;
+    
+    float: left;
+}
+.box{
+    width: 50%;
+    height: 350px;
+    float: left;
+    margin-bottom: 80px;
+}
+.imgcarro{
+   width: 90%;
+   height: 70%;
+   padding-left: 5%;
+  
+}
+.textocarro{
+    font-family: 'Acme',sans-serif;
+    text-align: center;
+}
